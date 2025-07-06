@@ -39,7 +39,7 @@
   -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid rgba(255, 255, 255, 0.3); 
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
-  z-index: 999;
+  z-index: 1;
 }
 
 .nav-link {
@@ -112,8 +112,6 @@
   transform: scale(1.2);
 }
 
-
-/* Choose Us Section */
 /* Our Services Section */
 .our-services-section {
   font-family: "Neuton", serif;
